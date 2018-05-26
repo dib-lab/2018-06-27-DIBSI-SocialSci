@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "FIXME"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "FIXME"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "FIXME"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
+venue: "UC Davis - DIBSI"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Gladys Valley Hall, Davis, California, 95616"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+latlng: "38.5328167,-121.7658964"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+humandate: "June 27-28, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2018-06-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2018-06-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["FIXME"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["fixme@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -46,10 +46,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+<h4>This is the website for the Social Sciences workshop to be run at DIBSI 2018. We will be updating the content below as the date of the workshop approaches. In the mean time:</h4>
+  
+<h4>Curriculum for this workshop may be viewed here: <a href="{http://www.datacarpentry.org/socialsci-workshop/}">http://www.datacarpentry.org/socialsci-workshop/</a>. Note that this is a newly developed curriculum that is being field-tested prior to its official release date, so please excuse the rough edges!</h4>
+  
+<h4>Registration for this workshop may be found here: <a href="{https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop}">https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop</a></h4>
 
 <h2 id="general">General Information</h2>
 
