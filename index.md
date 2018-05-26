@@ -48,7 +48,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h4>This is the website for the Social Sciences workshop to be run at DIBSI 2018. We will be updating the content below as the date of the workshop approaches. In the mean time:</h4>
   
-<h4>Curriculum for this workshop may be viewed here: <a href="{http://www.datacarpentry.org/socialsci-workshop/}">http://www.datacarpentry.org/socialsci-workshop/</a>.</h4>
+<h4>Curriculum for this workshop may be viewed here: <a href="{http://www.datacarpentry.org/socialsci-workshop}">http://www.datacarpentry.org/socialsci-workshop</a>.</h4>
   
 <h4>Registration for this workshop may be found here: <a href="{https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop}">https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop</a></h4>
 
