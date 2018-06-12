@@ -221,32 +221,24 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
-{% comment %}
-  SYLLABUS
-
-  Show what topics will be covered.
-
-  1. If your workshop is R rather than Python, remove the comment
-     around that section and put a comment around the Python section.
-  2. Some workshops will delete SQL.
-  3. Please make sure the list of topics is synchronized with what you
-     intend to teach.
-  4. You may need to move the div's with class="col-md-6" around inside
-     the div's with class="row" to balance the multi-column layout.
-
-  This is one of the places where people frequently make mistakes, so
-  please preview your site before committing, and make sure to run
-  'tools/check' as well.
-{% endcomment %}
-
 <h2 id="syllabus">Syllabus</h2>
-{% if page.carpentry == "swc" %}
-  {% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-  {% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-  {% include lc/syllabus.html %}
-{% endif %}
+
+Day 1: 
+|   Time     |  Topic  | Instructor    | 
+| --------- | --------- | --------- |
+| 9:00 - 9:15 | Introductions | TBA |
+| 9:15 - 10:45 | [Data Organiation in Spreadsheets](http://www.datacarpentry.org/spreadsheets-socialsci/) | TBA | 
+| 10:45 - 11:00 | Coffee Break | |
+| 11:00 - 1:00 | [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/) | TBA | 
+| 1:00 - 2:00 | Lunch | |
+| 2:00 - 3:30 | [R for Social Sciences](http://www.datacarpentry.org/r-socialsci/) | TBA | 
+| 3:30-3:45 | Coffee Break | | 
+| 3:45 - 4:30 | [R for Social Sciences (cont)](http://www.datacarpentry.org/r-socialsci/) | TBA |
+
+Day 2: 
+|   Time     |  Topic  | Instructor    | 
+| --------- | --------- | --------- |
+
 <hr/>
 
 {% comment %}
