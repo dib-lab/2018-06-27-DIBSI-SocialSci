@@ -224,20 +224,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h2 id="syllabus">Syllabus</h2>
 
 Day 1: 
-|   Time     |  Topic  | Instructor    | 
-| --------- | --------- | --------- |
-| 9:00 - 9:15 | Introductions | TBA |
-| 9:15 - 10:45 | [Data Organiation in Spreadsheets](http://www.datacarpentry.org/spreadsheets-socialsci/) | TBA | 
-| 10:45 - 11:00 | Coffee Break | |
-| 11:00 - 1:00 | [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/) | TBA | 
-| 1:00 - 2:00 | Lunch | |
-| 2:00 - 3:30 | [R for Social Sciences](http://www.datacarpentry.org/r-socialsci/) | TBA | 
-| 3:30-3:45 | Coffee Break | | 
-| 3:45 - 4:30 | [R for Social Sciences (cont)](http://www.datacarpentry.org/r-socialsci/) | TBA |
+|   Time     |  Topic  | Instructor    |  
+| --------- | --------- | --------- |  
+| 9:00 - 9:15 | Introductions | TBA |  
+| 9:15 - 10:45 | [Data Organiation in Spreadsheets](http://www.datacarpentry.org/spreadsheets-socialsci/) | TBA |   
+| 10:45 - 11:00 | Coffee Break | |  
+| 11:00 - 1:00 | [Data Cleaning with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/) | TBA |   
+| 1:00 - 2:00 | Lunch | |  
+| 2:00 - 3:30 | [R for Social Sciences](http://www.datacarpentry.org/r-socialsci/) | TBA |   
+| 3:30-3:45 | Coffee Break | |   
+| 3:45 - 4:30 | [R for Social Sciences (cont)](http://www.datacarpentry.org/r-socialsci/) | TBA |  
 
-Day 2: 
-|   Time     |  Topic  | Instructor    | 
-| --------- | --------- | --------- |
+Day 2:   
+|   Time     |  Topic  | Instructor    |   
+| --------- | --------- | --------- |  
 
 <hr/>
 
